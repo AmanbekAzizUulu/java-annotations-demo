@@ -1,0 +1,46 @@
+# Java build output
+/bin/
+/build/
+/target/
+/out/
+
+# VSCode settings
+.vscode/
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Dependency directories
+node_modules/
+lib/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
