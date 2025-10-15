@@ -1,4 +1,4 @@
-package com.dandaev.edu.annotations;
+package com.dandaev.edu.annotations.validation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -4,10 +4,10 @@ import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.dandaev.edu.annotations.Email;
-import com.dandaev.edu.annotations.NotNull;
-import com.dandaev.edu.annotations.Range;
-import com.dandaev.edu.annotations.Size;
+import com.dandaev.edu.annotations.validation.Email;
+import com.dandaev.edu.annotations.validation.NotNull;
+import com.dandaev.edu.annotations.validation.Range;
+import com.dandaev.edu.annotations.validation.Size;
 import com.dandaev.edu.validator.error.Error;
 
 public class Validator {

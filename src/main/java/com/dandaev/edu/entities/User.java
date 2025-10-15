@@ -1,9 +1,9 @@
 package com.dandaev.edu.entities;
 
-import com.dandaev.edu.annotations.Email;
-import com.dandaev.edu.annotations.NotNull;
-import com.dandaev.edu.annotations.Range;
-import com.dandaev.edu.annotations.Size;
+import com.dandaev.edu.annotations.validation.Email;
+import com.dandaev.edu.annotations.validation.NotNull;
+import com.dandaev.edu.annotations.validation.Range;
+import com.dandaev.edu.annotations.validation.Size;
 
 public class User {
 	@NotNull(message = "Name is required")
